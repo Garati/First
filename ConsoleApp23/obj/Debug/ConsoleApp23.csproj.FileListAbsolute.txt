@@ -1,0 +1,5 @@
+d:\users\student\documents\visual studio 2017\Projects\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe
+d:\users\student\documents\visual studio 2017\Projects\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
+d:\users\student\documents\visual studio 2017\Projects\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csprojResolveAssemblyReference.cache
+d:\users\student\documents\visual studio 2017\Projects\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.exe
+d:\users\student\documents\visual studio 2017\Projects\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.pdb
